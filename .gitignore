@@ -32,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.meta
+CiudadDeLosNinos/Library/metadata/
+CiudadDeLosNinos/Library/ShaderCache/
