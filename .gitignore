@@ -1,4 +1,4 @@
-/[Ll]ibrary/
+﻿/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -33,5 +33,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.meta
-CiudadDeLosNinos/Library/metadata/
-CiudadDeLosNinos/Library/ShaderCache/
+Republica de los Niños/Library/metadata/
+Republica de los Niños/Library/ShaderCache/
